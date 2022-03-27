@@ -1,0 +1,4 @@
+C:\Users\kiral\source\repos\Calculator\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\kiral\source\repos\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\kiral\source\repos\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\kiral\source\repos\Calculator\Debug\Calculator.exe
